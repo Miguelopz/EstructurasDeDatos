@@ -1,0 +1,11 @@
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\EstructurasDeDatos\Codigo\Demo_01_Vector\Demo_01_Vector\bin\Debug\netcoreapp2.1\Demo_01_Vector.deps.json
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\EstructurasDeDatos\Codigo\Demo_01_Vector\Demo_01_Vector\bin\Debug\netcoreapp2.1\Demo_01_Vector.runtimeconfig.json
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\EstructurasDeDatos\Codigo\Demo_01_Vector\Demo_01_Vector\bin\Debug\netcoreapp2.1\Demo_01_Vector.runtimeconfig.dev.json
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\EstructurasDeDatos\Codigo\Demo_01_Vector\Demo_01_Vector\bin\Debug\netcoreapp2.1\Demo_01_Vector.dll
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\EstructurasDeDatos\Codigo\Demo_01_Vector\Demo_01_Vector\bin\Debug\netcoreapp2.1\Demo_01_Vector.pdb
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\EstructurasDeDatos\Codigo\Demo_01_Vector\Demo_01_Vector\obj\Debug\netcoreapp2.1\Demo_01_Vector.csprojAssemblyReference.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\EstructurasDeDatos\Codigo\Demo_01_Vector\Demo_01_Vector\obj\Debug\netcoreapp2.1\Demo_01_Vector.csproj.CoreCompileInputs.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\EstructurasDeDatos\Codigo\Demo_01_Vector\Demo_01_Vector\obj\Debug\netcoreapp2.1\Demo_01_Vector.AssemblyInfoInputs.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\EstructurasDeDatos\Codigo\Demo_01_Vector\Demo_01_Vector\obj\Debug\netcoreapp2.1\Demo_01_Vector.AssemblyInfo.cs
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\EstructurasDeDatos\Codigo\Demo_01_Vector\Demo_01_Vector\obj\Debug\netcoreapp2.1\Demo_01_Vector.dll
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\EstructurasDeDatos\Codigo\Demo_01_Vector\Demo_01_Vector\obj\Debug\netcoreapp2.1\Demo_01_Vector.pdb
