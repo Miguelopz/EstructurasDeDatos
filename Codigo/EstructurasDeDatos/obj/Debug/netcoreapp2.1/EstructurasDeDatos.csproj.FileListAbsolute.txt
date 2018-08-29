@@ -1,0 +1,11 @@
+Z:\EstructurasDeDatos\Codigo\EstructurasDeDatos\bin\Debug\netcoreapp2.1\EstructurasDeDatos.deps.json
+Z:\EstructurasDeDatos\Codigo\EstructurasDeDatos\bin\Debug\netcoreapp2.1\EstructurasDeDatos.runtimeconfig.json
+Z:\EstructurasDeDatos\Codigo\EstructurasDeDatos\bin\Debug\netcoreapp2.1\EstructurasDeDatos.runtimeconfig.dev.json
+Z:\EstructurasDeDatos\Codigo\EstructurasDeDatos\bin\Debug\netcoreapp2.1\EstructurasDeDatos.dll
+Z:\EstructurasDeDatos\Codigo\EstructurasDeDatos\bin\Debug\netcoreapp2.1\EstructurasDeDatos.pdb
+Z:\EstructurasDeDatos\Codigo\EstructurasDeDatos\obj\Debug\netcoreapp2.1\EstructurasDeDatos.csprojAssemblyReference.cache
+Z:\EstructurasDeDatos\Codigo\EstructurasDeDatos\obj\Debug\netcoreapp2.1\EstructurasDeDatos.csproj.CoreCompileInputs.cache
+Z:\EstructurasDeDatos\Codigo\EstructurasDeDatos\obj\Debug\netcoreapp2.1\EstructurasDeDatos.AssemblyInfoInputs.cache
+Z:\EstructurasDeDatos\Codigo\EstructurasDeDatos\obj\Debug\netcoreapp2.1\EstructurasDeDatos.AssemblyInfo.cs
+Z:\EstructurasDeDatos\Codigo\EstructurasDeDatos\obj\Debug\netcoreapp2.1\EstructurasDeDatos.dll
+Z:\EstructurasDeDatos\Codigo\EstructurasDeDatos\obj\Debug\netcoreapp2.1\EstructurasDeDatos.pdb
