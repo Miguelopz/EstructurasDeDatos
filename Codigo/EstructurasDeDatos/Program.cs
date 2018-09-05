@@ -8,16 +8,17 @@ namespace EstructurasDeDatos
         {
             Random random = new Random();
 
-            Nodo nodoInicial = new Nodo();
-            nodoInicial.Valor = random.Next(0, 100) + "";
+            Nodo<int> nodoInicial = new Nodo<int>();
+
+            nodoInicial.Valor = random.Next(0, 100);
             Console.Write(nodoInicial.Valor + "  ");
 
-            Nodo nodoActual = new Nodo();
+            Nodo<int> nodoActual = new Nodo<int>();
             nodoActual = nodoInicial;
 
             for (int i = 0; i < 9; i++)
             {
-                Nodo nuevo = new Nodo(random.Next(0, 100) + "");
+                Nodo<int> nuevo = new Nodo<int>(random.Next(0, 100));
 
                 Console.Write(nuevo.Valor + "  ");
 

@@ -4,17 +4,17 @@ using System.Text;
 
 namespace EstructurasDeDatos
 {
-    class NodoEnlazado : Nodo
+    class NodoEnlazado<T> : Nodo<T>
     {
         public int Posicion { get; set; }
-        public NodoEnlazado Anterior { get; set; }
+        public NodoEnlazado<T> Anterior { get; set; }
 
-        public NodoEnlazado(string valor)
+        public NodoEnlazado(T valor)
             : base(valor)
         {
         }
 
-        public NodoEnlazado(string valor, Nodo siguiente)
+        public NodoEnlazado(T valor, Nodo<T> siguiente)
             : base(valor, siguiente)
         {
         }

@@ -4,22 +4,22 @@ using System.Text;
 
 namespace EstructurasDeDatos
 {
-    class Nodo
+    class Nodo<T>
     {
-        public string Valor { get; set; }
-        public Nodo Siguiente { get; set; }
+        public T Valor { get; set; }
+        public Nodo<T> Siguiente { get; set; }
 
         public Nodo()
         {
 
         }
 
-        public Nodo(string valor)
+        public Nodo(T valor)
         {
             this.Valor = valor;
         }
 
-        public Nodo(string valor, Nodo siguiente)
+        public Nodo(T valor, Nodo<T> siguiente)
         {
             this.Valor = valor;
             this.Siguiente = siguiente;
